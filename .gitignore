@@ -1,6 +1,7 @@
 getting-started/hello_cargo/target
 guessing_game/target
 core_concepts/target
+functions/target
 
 
 # Added by cargo
